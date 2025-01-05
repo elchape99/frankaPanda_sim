@@ -1,7 +1,9 @@
 # Franka robot simulator
+Simulator of two cooperative franka robot. This simulator is developed on python
+Is needed to use linux disto ubuntu for run it and use it with matlab script throug UDP trasmission
 
-## Requirements 
-    
+
+## Requirements     
 - cycler==0.10.0
 - kiwisolver==1.3.1
 - matplotlib==3.3.4
